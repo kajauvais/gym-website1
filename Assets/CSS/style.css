@@ -493,7 +493,7 @@ footer{
     font-weight: 600;
     padding-bottom: 8px;
 }
-.maindiv{
+nav{
     position: fixed;
     top: 0;
     background-color: #000;
